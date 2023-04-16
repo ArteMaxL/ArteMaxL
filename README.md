@@ -23,7 +23,7 @@
 </p>
 
 <br/>
-#### Thank you for visiting my profile! 👋 
+<h4>Thank you for visiting my profile! 👋</h4> 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ArteMaxL&label=Profile%20views&color=D61C4E&style=flat" alt="artemioprofile" /> :trollface: </p>
 
