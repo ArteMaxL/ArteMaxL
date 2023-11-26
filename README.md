@@ -13,7 +13,7 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-- 🌱 I’m currently learning **ReactJs, Oracle PLSQL**
+- 🌱 I’m currently learning **Angular, Oracle PLSQL**
 
 - 💬 Ask me about **C#, .Net, Javascript, NodeJs**
 
