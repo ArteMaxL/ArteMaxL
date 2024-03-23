@@ -13,7 +13,7 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-## Languages && Tools:
+<!--## Languages, Frameworks and Tools:-->
 
  <p align="center" p=13>
   <a href="https://skillicons.dev" style="text-decoration: none;">
