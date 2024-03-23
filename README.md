@@ -13,9 +13,17 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-- 🌱 I’m currently learning **Angular, Oracle PLSQL**
+## Languages && Tools:
 
-- 💬 Ask me about **C#, .Net, Javascript, NodeJs**
+ <p align="center" p=13>
+  <a href="https://skillicons.dev" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,js,ts,django,python,html,css,docker,bootstrap,git,azure,github,&perline=13" />
+  </a>
+</p>
+
+- 🌱 I’m currently learning **Microservices Architecture, Domain-driven design (DDD), Azure**
+
+- ⚡ I have experience in **C#, .Net, Javascript, NodeJs, Oracle PLSQL, MSSQL Server**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
