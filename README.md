@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Microservices Architecture, Domain-driven design (DDD), Azure**
 
-- ⚡ I have experience in **C#, .Net, Javascript, NodeJs, Oracle PLSQL, MSSQL Server**
+- ⚡ I have experience in **C#, .Net, TypeScript, Angular, NodeJs, Oracle PLSQL, MSSQL Server**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
