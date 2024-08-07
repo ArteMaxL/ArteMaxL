@@ -17,7 +17,7 @@
 
  <p align="center" p=13>
   <a href="https://skillicons.dev" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,angular,js,html,css,bootstrap,django,python,docker,git,azure,github,&perline=13" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,angular,html,css,bootstrap,django,python,docker,git,azure,github,&perline=13" />
   </a>
 </p>
 
