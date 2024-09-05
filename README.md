@@ -17,13 +17,13 @@
 
  <p align="center" p=13>
   <a href="https://skillicons.dev" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,angular,nestjs,html,css,django,python,docker,git,azure,github,&perline=13" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,go,ts,angular,nestjs,html,css,django,python,docker,git,azure,github,&perline=14" />
   </a>
 </p>
 
 - 🌱 I’m currently learning **Microservices Architecture, Domain-driven design (DDD), Azure**
 
-- ⚡ I have experience in **C#, .Net, TypeScript, Angular, NodeJs, NestJs, Oracle PLSQL, MSSQL Server**
+- ⚡ I have experience in **C#, .Net, Go, TypeScript, Angular, NodeJs, NestJs, Oracle PLSQL, MSSQL Server**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
