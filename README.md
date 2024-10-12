@@ -21,7 +21,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Microservices Architecture, Domain-driven design (DDD), Azure**
+- 🌱 I’m currently learning **Microservices Architecture, Azure**
 
 - ⚡ I have experience in **C#, .Net, Go, TypeScript, Angular, NodeJs, NestJs, Oracle PLSQL, MSSQL Server**
 
