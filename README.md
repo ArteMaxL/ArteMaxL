@@ -1,9 +1,13 @@
-
 <h1 align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=6533F7&size=28&width=500&duration=3000&height=81&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Artemio+Lucero"/>
 </h1>
 
-<h2 align="center">A Software Developer from Argentina!</h2>
+<h2 align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Bandera Argentina" style="height: 24px; vertical-align: middle;">
+    A Software Developer from Argentina!
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Bandera Argentina" style="height: 24px; vertical-align: middle;">
+</h2>
+
 <br/>
 
 <p>
@@ -15,15 +19,21 @@
 
 <!--## Languages, Frameworks and Tools:-->
 
- <p align="center" p=13>
+<p align="center" style="margin:0; line-height:1;">
   <a href="https://skillicons.dev" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,go,ts,angular,nestjs,html,css,django,python,docker,git,azure,github,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,github,rust,&perline=5" />
   </a>
 </p>
 
-- 🌱 I’m currently learning **Microservices Architecture, Azure**
+<p align="center" style="margin:0; line-height:1;">
+  <a href="https://skillicons.dev" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=ts,angular,go,nestjs,html,css,django,python,docker,git,&perline=10" />
+  </a>
+</p>
 
-- ⚡ I have experience in **C#, .Net, Go, TypeScript, Angular, NodeJs, NestJs, Oracle PLSQL, MSSQL Server**
+- 🌱 I’m currently learning **Rust 🦀**
+
+- ⚡ I have experience in **C#, .Net, Go, TypeScript, Angular, NodeJs, NestJs, Oracle PLSQL, MSSQL Server, Azure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
