@@ -31,7 +31,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Rust 🦀**
+- 🌱 I’m currently learning **AI & ML**
 
 - ⚡ I have experience in **C#, .Net, Go, TypeScript, Angular, NodeJs, NestJs, Oracle PLSQL, MSSQL Server, Azure**
 
